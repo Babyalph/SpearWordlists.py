@@ -1,6 +1,9 @@
 # SpearWordlists.py
 Script wich generates Target Individual Wordlists for aimed Bruteforce Attacks, with the Words given to it. (like Names, Birthday and Stuff.}
 
+# Disclaimer
+This script is for educational purposes only. Use responsibly and ethically.
+
 # Features
 - Generates all combinations of input words (with upper/lowercase variants)
 - Adds special characters at word boundaries
