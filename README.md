@@ -16,6 +16,6 @@ Enter a List of Words, wich are Likley to be used in the Targets Password.
 # Comment
 Keeping the Words down for fewer Words and adding them to your normal Wordlist is recommended.
 
-This is my first Github Project and Im still Working on it.
+This is my first Github Project and Im still Working on it. Please star it tho.
 Enjoy
 BabyALpha
