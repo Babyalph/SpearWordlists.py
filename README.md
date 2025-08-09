@@ -21,4 +21,6 @@ Keeping the Words down for fewer Words and adding them to your normal Wordlist i
 This is my first Github Project and Im still Working on it. Please star it tho.
 Enjoy
 BabyALpha
-!(ScreenshotSpearWordlists.png)
+
+![Screenshot](Screenshot.png)
+
