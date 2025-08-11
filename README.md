@@ -2,7 +2,7 @@
 Script wich generates Target Individual Wordlists for aimed Bruteforce Attacks, with the Words given to it. (like Names, Birthday and Stuff.}
 
 # Check Releases for the newest Version
-
+![Screenshot](Screenshot.png)
 # Disclaimer
 This script is for educational purposes only. Use responsibly and ethically.
 
@@ -22,5 +22,5 @@ This is my first Github Project and Im still Working on it. Please star it tho.
 Enjoy
 BabyALpha
 
-![Screenshot](Screenshot.png)
+
 
