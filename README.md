@@ -1,7 +1,7 @@
 # SpearWordlists.py
 Script wich generates Target Individual Wordlists for aimed Bruteforce Attacks, with the Words given to it. (like Names, Birthday and Stuff.}
 
-# Check Releases for the newest Version
+# Check Releases for older Versions
 ![Screenshot](Screenshot.png)
 # Disclaimer
 This script is for educational purposes only. Use responsibly and ethically.
@@ -10,6 +10,7 @@ This script is for educational purposes only. Use responsibly and ethically.
 - Generates all combinations of input words (with upper/lowercase variants)
 - Adds special characters at word boundaries
 - Generates Passwords between 6-9 Characters
+- New one word Mode wich adds common Strings like "123456" or "qwerty"
 
 # Example
 Enter a List of Words, wich are Likley to be used in the Targets Password.
