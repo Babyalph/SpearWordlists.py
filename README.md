@@ -1,7 +1,6 @@
 # SpearWordlists.py
 Script wich generates Target Individual Wordlists for aimed Bruteforce Attacks, with the Words given to it. (like Names, Birthday and Stuff.}
 
-# Check Releases for older Versions
 ![Screenshot](Screenshot.png)
 # Disclaimer
 This script is for educational purposes only. Use responsibly and ethically.
@@ -15,6 +14,8 @@ This script is for educational purposes only. Use responsibly and ethically.
 # Example
 Enter a List of Words, wich are Likley to be used in the Targets Password.
 (Example:Tom 98 7.5 Paris Arsenal ...)
+
+# Check Releases for older Versions
 
 # Comment
 Keeping the Words down for fewer Words and adding them to your normal Wordlist is recommended.
