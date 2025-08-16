@@ -8,7 +8,7 @@ This script is for educational purposes only. Use responsibly and ethically.
 # Features
 - Generates all combinations of input words (with upper/lowercase variants)
 - Adds special characters at word boundaries
-- Generates Passwords between 6-9 Characters
+- Generates Passwords with your choosen lenght
 - New one word Mode wich adds common Strings like "123456" or "qwerty"
 
 # Example
